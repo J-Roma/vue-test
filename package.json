@@ -1,7 +1,6 @@
 {
   "name": "quiz-module",
   "version": "0.0.0",
-  "homepage": "quiz-module.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
